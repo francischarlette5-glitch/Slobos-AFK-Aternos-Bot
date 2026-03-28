@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "testbot-5dCu.aternos.me",
-    "port": 12816,
+    "ip": "testt2bot.aternos.me",
+    "port": 57115,
     "version": "1.20.1",
     "try-creative": false
   },
